@@ -1,4 +1,4 @@
-package org.ikinsure.hard.recognition;
+package org.ikinsure.recognition;
 
 import java.util.Arrays;
 

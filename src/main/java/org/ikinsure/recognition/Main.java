@@ -1,5 +1,4 @@
-package org.ikinsure.hard.recognition;
-import java.util.Arrays;
+package org.ikinsure.recognition;
 import java.util.Scanner;
 
 public class Main {
